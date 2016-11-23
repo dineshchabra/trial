@@ -1,3 +1,5 @@
+
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
@@ -9,7 +11,9 @@ class formdaily {
        JTextField txtaccno,txtfname,txtlname,txttype,txtamt,txtint,txtbal,txtcurr,txtnarr;
        JComboBox cmbflag;
        JButton btnclear,btnclose,btnsave;
-       JPanel p1,p2;
+
+
+       JPanel p1,p2,p3;
        GridLayout gl102,gl12;
        FlowLayout fl;
       
